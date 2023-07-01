@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    height: 130px;
+    margin: 130px auto;
+    padding: 150px;
+    text-align: left;
+  }
+  
+  .container{
+    text-align: center;
+    padding: 20px;
+  
+  }
+  
+  .error{
+    color: red;
+  }
