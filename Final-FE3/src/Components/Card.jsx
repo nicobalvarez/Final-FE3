@@ -35,7 +35,7 @@ const Card = ({ name, username, id }) => {
           <div>
             <img
               className={styles.img}
-              src="/img/doctor.jpg"
+              src="/img/doctor.png"
               alt="Doctor image"
             />
 
